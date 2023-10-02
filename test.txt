@@ -1,1 +1,2 @@
 my first new git repo
+update 2nd line in my first git repo
