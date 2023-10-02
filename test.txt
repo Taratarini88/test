@@ -2,3 +2,4 @@ my first new git repo
 update 2nd line in my new first git repo
 test update 2nd in probalility-1 or master 
 test update 2nd in master confirm
+My 3rd line need to update in master branch
